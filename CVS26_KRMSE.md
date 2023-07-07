@@ -5,5 +5,5 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS26_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
-v26.0.0.147_r100 (2023/07/07)<br>
+v26.0.0.147_r100 (优化补丁版本 v26.0.2.0_Update2，2023/07/07)<br>
 对新的免登录补丁和安装程序结构进行细节调整。
