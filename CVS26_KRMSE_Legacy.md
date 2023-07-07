@@ -1,5 +1,7 @@
 ### 雨糖科技项目更新历史
 适用项目：CVS26_KRMSE_Legacy<br>
+v26.0.0.147_r100 版本开始，我们修改了特别版程序的版本号规则。<br>
+[请转到此页查阅新版程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS26_KRMSE.md)<br>
 以更新时间从新到旧排序。
 ### 正文
 v26.0.2.0_Update1 (2023/07/05)<br>
