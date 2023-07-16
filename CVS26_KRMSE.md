@@ -5,6 +5,9 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS26_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v26.0.0.147_r102 (优化补丁版本 v26.0.2.0_Update5，2023/07/16)<br>
+安装程序现在会检测电脑是否安装了 3D 标题编辑器，并弹窗提示；Windows 8.x 用户在程序安装完毕后，安装程序将提醒可能需要重启以完成 .NET Framework 4.8 安装；解决部分文件在程序卸载时未被删除；更新 DummyAVCtrl 组件。
+
 v26.0.0.147_r101 (优化补丁版本 v26.0.2.0_Update3，2023/07/10)<br>
 将 3D 标题编辑器调整为 1.0.10.317 零售版本（批量授权版本有安装异常的报告）。
 
