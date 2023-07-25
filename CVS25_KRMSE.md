@@ -5,5 +5,8 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS25_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v25.3.0.584_r101 (优化补丁版本 v25.3.1.0_Update2，2023/07/25)<br>
+修订简体中文语言文件。
+
 v25.3.0.584_r100 (优化补丁版本 v25.3.1.0_Update1，2023/07/24)<br>
-修正简体中文语言文件；消息推送选项策略文件调整；Inno Setup 安装体验结构优化调整；跳过 Corel Setup Engine 的许可协议和用户体验改善计划页面。
+Inno Setup 安装体验结构优化调整；跳过 Corel Setup Engine 的许可协议和用户体验改善计划页面；消息推送选项策略文件调整；修订简体中文语言文件。
