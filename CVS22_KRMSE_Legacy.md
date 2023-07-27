@@ -1,9 +1,12 @@
 ### 雨糖科技项目更新历史
 适用项目：CVS22_KRMSE_Legacy<br>
-v22.3.0.436_r100 版本开始，我们修改了特别版程序的版本号规则。<br>
+v22.3.0.439_r100 版本开始，我们修改了特别版程序的版本号规则。<br>
 [请转到此页查阅新版程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS22_KRMSE.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v22.2.1.0 (2023/06/01)<br>
+主程序和谐更新；修正简体中文语言支持；更新与消息推送选项调整；Inno Setup 安装体验结构优化调整，大幅度减少安装时长；Corel Setup Engine 调整，向对 Script.dll 动刀的时代说再见。
+
 v22.2.0.5 (2022/10/24)<br>
 隆重介绍全新的安装体验（基于 Inno Setup）。更换数字签名，以及稳定性修复。
 
