@@ -5,6 +5,9 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS26_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v26.0.0.147_r108 (优化补丁版本 v26.0.2.1_Update1，2023/08/05)<br>
+Inno Setup 安装体验优化调整；安装文件结构调整；修订简体中文语言文件。
+
 v26.0.0.147_r106 (优化补丁版本 v26.0.2.0_Update9，2023/07/25)<br>
 修订简体中文语言文件，安装程序结构调整。
 
