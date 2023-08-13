@@ -17,7 +17,7 @@ v25.3.0.0_Update7 (2023/2/28)<br>
 修复部分界面错位，Inno Setup 安装体验调整。
 
 v25.3.0.0_Update5 (2023/2/5)<br>
-向魔改 Script.dll 的时代说再见！主程序安装现由我们制作的修改版下载器完成；更新官方更新，默认不安装 Haali Media Splitter。
+向魔改 Script.dll 的时代说再见！主程序安装现由我们制作的修改版下载器完成；跟进官方更新，默认不安装 Haali Media Splitter。
 
 v25.3.0.0_Update3 (2023/2/3)<br>
 基于官方 SP3 旗舰版重制，调整安装体验结构。
