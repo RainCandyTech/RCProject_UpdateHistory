@@ -5,6 +5,9 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS25_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v25.3.0.584_r102 (优化补丁版本 v25.3.1.0_Update5，2023/09/16)<br>
+Corel Setup Engine 问题修复。
+
 v25.3.0.584_r102 (优化补丁版本 v25.3.1.0_Update3，2023/08/22)<br>
 更新第三版会会 2022 雨科魔法补丁；Inno Setup 安装体验结构优化调整。
 
