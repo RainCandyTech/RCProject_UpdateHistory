@@ -5,6 +5,9 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS26_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v26.0.0.147_r112 (优化补丁版本 v26.0.2.2，2023/09/26)<br>
+安装程序结构调整；Corel Setup Engine 结构调整；修订简体中文语言文件。
+
 v26.0.0.147_r111 (优化补丁版本 v26.0.2.1_Update5，2023/09/07)<br>
 Corel Setup Engine 问题修复；修订简体中文语言文件。
 
