@@ -5,5 +5,8 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS24_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v24.1.0.299_r101 (优化补丁版本 v24.2.1.0，2023/11/18)<br>
+Corel Setup Engine 问题修复；雨科安装体验更新与问题修复；程序配置文件参数调整；修订简体中文语言文件。
+
 v24.1.0.299_r100 (优化补丁版本 v24.2.0.0_Update1，2023/07/17)<br>
 安装向导程序结构调整，主程序消息参数调整。
