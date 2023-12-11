@@ -1,5 +1,7 @@
 ### 雨糖科技项目更新历史
 适用项目：MT_KRMSE<br>
+v7.7.1.258_r001 版本开始，我们修改了特别版程序的版本号规则。<br>
+[请转到此页查阅新版程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/MT_KRMSE.md)<br>
 v1.0 基于版本 6.8 制作，v1.1 – v2.6x 基于版本 6.9b 制作，v2.7 基于版本 6.9c 版本制作，<br>
 v2.7x 基于版本 6.9d 制作，v2.8 及更新版基于版本 7.x 制作。<br>
 以更新时间从新到旧排序。
