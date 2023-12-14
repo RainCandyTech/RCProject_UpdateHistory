@@ -5,11 +5,14 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS26_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v26.0.0.147_r118 (优化补丁版本 v26.0.2.2_Update6，2023/12/15)<br>
+修订简体中文语言文件；程序 PCU 组件调整；更新 Corel Setup Engine 修改；雨糖科技 Inno Setup 安装体验优化调整。
+
 v26.0.0.147_r117 (优化补丁版本 v26.0.2.2_Update5，2023/12/02)<br>
-修订简体中文语言文件，更新 Corel Setup Engine 修改；更新雨糖科技 Inno Setup 安装体验。
+修订简体中文语言文件；更新 Corel Setup Engine 修改；更新雨糖科技 Inno Setup 安装体验。
 
 v26.0.0.147_r116 (优化补丁版本 v26.0.2.2_Update3，2023/11/25)<br>
-修订简体中文语言文件，更新 Corel Setup Engine 修改；更新雨糖科技 Inno Setup 安装体验。
+修订简体中文语言文件；更新 Corel Setup Engine 修改；更新雨糖科技 Inno Setup 安装体验。
 
 v26.0.0.147_r115 (优化补丁版本 v26.0.2.2_Update2，2023/11/06)<br>
 临时下线安装体验中的“禁用联网功能”选项，由于收到了该功能会导致程序不稳定的反馈。<br>
