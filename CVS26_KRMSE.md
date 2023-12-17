@@ -1,13 +1,13 @@
 ### 雨糖科技项目更新历史
-适用项目：CVS26_KRMSE<br>
+适用项目：CVS26_UMRSE<br>
 由于之前的特别版程序的修订版本号给大家带来了困扰，<br>
 所以从 v26.0.0.147_r100 版本开始，我们修改了特别版程序的版本号规则。<br>
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS26_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
-<!-- v26.0.0.147_r119 (优化补丁版本 v26.0.2.2_Update7，2022/01/21)<br>
-修订简体中文语言文件；安装程序细节调整。
--->
+v26.0.0.147_r119 (优化补丁版本 v26.0.2.2_Update7，2023/12/17)<br>
+修订简体中文语言文件；更新 Corel Setup Engine 修改；安装程序结构调整。
+
 v26.0.0.147_r118 (优化补丁版本 v26.0.2.2_Update6，2023/12/15)<br>
 程序 PCU 组件调整；更新 Corel Setup Engine 修改；雨糖科技 Inno Setup 安装体验优化调整。
 
