@@ -5,9 +5,9 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS26_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
-<!-- v26.0.0.213_r001 (优化补丁版本 v26.0.3.0，2024/01/15)<br>
+v26.0.0.213_r001 (优化补丁版本 v26.0.3.0，2024/01/15)<br>
 跟进官方最新程序版本；修订简体中文语言文件。
--->
+
 v26.0.0.147_r120 (优化补丁版本 v26.0.2.2_Update8，2023/12/31)<br>
 更新 Corel Update Helper v2；修订简体中文语言文件；雨糖科技 Inno Setup 安装体验优化调整。
 
