@@ -5,6 +5,12 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS26_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v26.0.0.213_r006 (优化补丁版本 v26.0.3.0_Update4，2024/01/30)<br>
+修订简体中文和繁体中文语言文件；更新 Corel Setup Engine 修改。
+
+v26.0.0.213_r005 (优化补丁版本 v26.0.3.0_Update3，2024/01/21)<br>
+修订简体中文语言文件。
+
 v26.0.0.213_r003 (优化补丁版本 v26.0.3.0_Update2，2024/01/19)<br>
 恢复“禁用联网功能”实验性选项；雨科安装程序体验更新调整；修订程序语言文件。
 
