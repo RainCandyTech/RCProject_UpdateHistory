@@ -5,7 +5,7 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS17_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
-v17.0.4.106_r002c (优化补丁版本 v17.0.0.1_Update1_x64，2024/02/07)
+v17.0.4.106_r002c (优化补丁版本 v17.0.0.1_Update1_x64，2024/02/07)<br>
 移除 ContentHD；解决部分操作系统无法安装的问题。
 
 v17.0.4.106_r001c (优化补丁版本 v17.0.0.1_x64，2024/01/30)<br>
