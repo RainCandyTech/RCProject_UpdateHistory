@@ -5,6 +5,9 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS26_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v26.1.0.268_r003 (优化补丁版本 v26.0.3.1_Update2，2024/02/15)<br>
+新增可选安装降级 MP4 库 DLL 文件解决视频掉帧问题的选项；修订简体中文语言文件。
+
 v26.1.0.268_r002 (优化补丁版本 v26.0.3.1_Update1，2024/02/02)<br>
 修订简体中文语言文件。
 
