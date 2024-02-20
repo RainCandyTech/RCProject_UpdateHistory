@@ -5,6 +5,9 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS23_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v23.3.0.663_r002 (2024/02/20)<br>
+添加调用官方接口，禁用部分联网功能的选项（选择后，将禁用欢迎书、收费音乐等联网功能）；修订简体中文语言文件。
+
 v23.3.0.663_r001 (优化补丁版本 v23.5.1.0，2023/11/30)<br>
 跟进主程序版本更新；Corel Setup Engine 结构调整；更新雨糖科技 Inno Setup 安装体验；消息推送选项策略文件调整；修订简体中文程序翻译。
 
