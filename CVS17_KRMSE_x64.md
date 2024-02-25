@@ -5,6 +5,9 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS17_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v17.0.4.106_r003c (2024/02/25)<br>
+升级程序基线版本；修复部分语言下 ICA 组件安装问题；修订简体中文语言文件。
+
 v17.0.4.106_r002c (优化补丁版本 v17.0.0.1_Update1_x64，2024/02/07)<br>
 移除 ContentHD；解决部分操作系统无法安装的问题。
 
