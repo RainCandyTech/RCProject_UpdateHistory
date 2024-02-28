@@ -5,5 +5,8 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS15_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v15.3.0.13_r011 (2024/02/28)<br>
+移除 ContentHD；修订简体中文语言文件；Corel Setup Engine 结构调整；更新雨糖科技 Inno Setup 安装体验。
+
 v15.3.0.13_r010 (优化补丁版本 v26.0.2.2，2023/10/18)<br>
 Inno Setup 安装体验结构优化调整；Corel Setup Engine 结构调整；消息推送选项策略文件调整；修订简体中文语言文件。
