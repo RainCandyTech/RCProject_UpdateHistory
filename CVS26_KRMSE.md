@@ -5,8 +5,11 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS26_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v26.1.0.268_r009 (2024/03/16)<br>
+修订简体中文语言文件；移除 Haali Media Splitter 安装选项。
+
 v26.1.0.268_r008 (2024/03/15)<br>
-修订简体中文语言文件。 
+修订简体中文语言文件。
 
 v26.1.0.268_r007 (2024/03/06)<br>
 集成官方视频渲染卡顿 / 掉帧问题修复补丁。
