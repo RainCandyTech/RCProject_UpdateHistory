@@ -5,6 +5,12 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/MT_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v7.8.0.0_r002 (2024/03/17)<br>
+修订程序语言文件。
+
+v7.8.0.0_r001 (2024/02/29)<br>
+根据官方版本更新；修正简体中文语言文件；更新雨糖科技 Inno Setup 安装体验。
+
 v7.7.1.258_r002 (2024/02/15)<br>
 修正简体中文语言文件；更新雨糖科技 Inno Setup 安装体验。
 
