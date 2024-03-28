@@ -5,6 +5,9 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS26_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v26.1.0.268_r011 (2024/03/27)<br>
+尝试修复数字签名被拉黑，导致 Windows Defender 拦截安装程序的问题；修订简体中文语言文件。
+
 v26.1.0.268_r010 (2024/03/23)<br>
 修订简体中文语言文件。
 
