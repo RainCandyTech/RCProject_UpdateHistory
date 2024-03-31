@@ -5,6 +5,12 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/MT_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v6.9.4.76_r022 (2024/03/31)<br>
+修订程序语言文件；现在安装程序可以自动删除 CJ 6.9 修改版的残留 DLL 文件 (MPlugin.dll, SPlugin.dll) 了。
+
+v6.9.2.0_r052 (2024/03/31)<br>
+修订程序语言文件；现在安装程序可以自动删除 CJ 6.9 修改版的残留 DLL 文件 (MPlugin.dll, SPlugin.dll) 了。
+
 v7.8.0.0_r004 (2024/03/30)<br>
 修订程序语言文件；进一步尝试解决 Windows Defender 报毒问题；更新雨糖科技 Inno Setup 安装体验。
 
