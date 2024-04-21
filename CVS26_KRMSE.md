@@ -5,6 +5,9 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS26_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v26.1.0.268_r013 (2024/04/21)<br>
+修订简体中文语言文件；更新 Corel Setup Engine 修改；雨科安装程序体验更新调整。
+
 v26.1.0.268_r012 (2024/04/03)<br>
 修订简体中文语言文件；更新 Corel Setup Engine 修改。
 
