@@ -5,6 +5,9 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS21_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v21.4.0.165_r102d (2024/05/04)<br>
+修订简体中文语言文件；更新 Corel Setup Engine 修改；雨科安装程序体验更新调整。
+
 v21.4.0.165_r101d (优化补丁版本 v21.8.0.3_Update1_x86，2023/11/12)<br>
 Corel Setup Engine 问题修复；雨科安装体验问题修复；修订简体中文语言文件。
 
