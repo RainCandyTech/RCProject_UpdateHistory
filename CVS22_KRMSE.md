@@ -5,6 +5,9 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS22_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v22.3.0.463_r006 (2024/05/05)<br>
+修订简体中文语言文件；雨科安装程序体验更新调整。
+
 v22.3.0.463_r005 (2024/04/02)<br>
 尝试修复数字签名被拉黑，导致 Windows Defender 拦截安装程序的问题；修订简体中文语言文件。
 
