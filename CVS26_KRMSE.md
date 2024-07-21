@@ -5,6 +5,9 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS26_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v26.2.0.311_r001 (2024/07/21)<br>
+跟进官方最新程序版本；修订简体中文语言文件。
+
 v26.1.0.268_r018 (2024/05/29)<br>
 修订简体中文语言文件；雨科安装程序体验更新调整。
 
