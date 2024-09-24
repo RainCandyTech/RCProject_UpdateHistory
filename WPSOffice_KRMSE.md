@@ -5,7 +5,7 @@
 [请转到此页查阅 2023 版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/WPSOffice_2023_UMRSE.md)
 
 ### 正文
-v11.8.2.12309_r002 (2024/09/24)<br>
+v11.8.2.12309_r003 (2024/09/24)<br>
 现在，VBA 组件和公文相关方正字体已经重新成为可选功能了，您可以选择性不安装它们。
 
 v11.8.2.12309_r002、v11.8.2.12265_r013 (2024/09/20)<br>
