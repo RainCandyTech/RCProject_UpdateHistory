@@ -5,6 +5,9 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS20_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v20.5.0.76_r012c (2024/09/25)<br>
+添加调用官方接口，禁用部分联网功能的选项（选择后，将禁用欢迎书、收费音乐等联网功能）；尝试修复数字签名被拉黑，导致 Windows Defender 拦截安装程序的问题；修订简体中文语言文件。
+
 v20.5.0.76_r011c (优化补丁版本 v20.1.2.0_x64，2023/11/07)<br>
 Corel Setup Engine 问题修复；雨科安装体验问题修复；修订简体中文语言文件。
 
