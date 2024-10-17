@@ -5,6 +5,9 @@
 [请转到此页查阅 2023 版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/WPSOffice_2023_UMRSE.md)
 
 ### 正文
+v11.8.6.11021_r010_stage (2024/10/17)<br>
+修复安装过程中出现的无法运行“VBA_Setup.exe”的问题。
+
 v11.8.2.12309_r006 (2024/09/27)<br>
 更换程序序列号；修复静默安装功能和“在多组件模式下，使程序在启动时直接进入编辑状态”功能失效的问题。
 
