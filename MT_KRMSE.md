@@ -5,6 +5,12 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/MT_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v7.8.0.0_r010 (2024/10/23)<br>
+修订简体中文语言文件；现在安装程序可以为 WPS Office 的 64 位版本安装正确的加载项。
+
+v6.9.4.76_r029、v6.9.2.0_r058 (2024/10/23)<br>
+修订简体中文语言文件。
+
 v6.9.4.76_r028 (2024/10/11)<br>
 修订程序语言文件。
 
