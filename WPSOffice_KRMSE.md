@@ -5,6 +5,9 @@
 [请转到此页查阅 2023 版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/WPSOffice_2023_UMRSE.md)
 
 ### 正文
+v11.8.2.12265_r016、v11.8.6.11021_r011 (2024/11/13)<br>
+新增闪屏图片 Logo 自定义功能，将 PNG 格式的 Logo 图片重命名为“NijikaWPSCustomLogo.png”，复制到安装程序所在目录即可；新增“移除程序启动时的闪屏图片”实验功能；完善程序定制配置。
+
 v11.8.6.11021_r010_stage (2024/10/17)<br>
 修复安装过程中出现的无法运行“VBA_Setup.exe”的问题。
 
