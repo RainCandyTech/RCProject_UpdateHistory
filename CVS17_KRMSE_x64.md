@@ -5,6 +5,12 @@
 [请转到此页查阅之前版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/CVS17_KRMSE_Legacy.md)<br>
 以更新时间从新到旧排序。
 ### 正文
+v17.0.4.106_r005c (2024/11/16)<br>
+不再使用雨科安装体验进行程序安装引导，而是直接启动 Corel Setup Engine 以安装程序；修订简体中文语言文件。
+
+v17.0.4.106_r003c_stage (2024/03/16)<br>
+<更新日志丢失。>
+
 v17.0.4.106_r003c (2024/02/25)<br>
 升级程序基线版本；修复非简体中文系统下 ICA 组件安装问题；修订简体中文语言文件。
 
