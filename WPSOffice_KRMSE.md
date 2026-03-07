@@ -5,6 +5,12 @@
 [请转到此页查阅 2023 版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/WPSOffice_2023_UMRSE.md)
 
 ### 正文
+v11.8.2.12344_20260307<br>
+- 跟进官方最新版本更新；
+- 补充公文组件的缺失字体；
+- 新增内测功能；
+- 进一步完善程序配置。
+
 v11.8.2.12330_20251220<br>
 解决了 PDF 高级功能中发票打印功能无法使用的问题；恢复公文域功能支持；更新国产化版本 Ink Draw DLL 文件；添加微软 Access 数据库引擎可选功能（用于邮件合并功能）；新增集成 WPS Security SDK DLL 文件。
 
