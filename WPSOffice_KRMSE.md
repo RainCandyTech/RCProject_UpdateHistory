@@ -1,5 +1,5 @@
 ### 雨糖科技项目更新历史
-适用项目：WPSOffice_RCTSE<br>
+适用项目：WPSOffice_Legacy_RCTSE<br>
 以更新时间从新到旧排序。<br>
 我们将 WPS Office 2023 特别版程序的更新历史转移到了单独的页面。<br>
 [请转到此页查阅 2023 版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/WPSOffice_2023_UMRSE.md)
