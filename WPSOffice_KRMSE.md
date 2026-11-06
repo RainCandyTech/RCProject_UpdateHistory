@@ -5,6 +5,9 @@
 [请转到此页查阅 2023 版本程序的更新历史。](https://github.com/RainCandyTech/RCProject_UpdateHistory/blob/main/WPSOffice_2023_UMRSE.md)
 
 ### 正文
+v11.8.2.12265_20261102、v11.8.2.12344_20261102<br>
+对安装体验进行了改进与错误修复。
+
 v11.8.2.11023_20261102
 - 由于功能失效，针对在线版本屏蔽新建文档界面中的「查看免费模板」入口；
 - 新增 VBA 7.0 可选安装项（使用 Unwake Studio 二次打包版本）；
